@@ -8,7 +8,7 @@
 		android:layout_width="fill_parent"
 		android:layout_height="wrap_content"
 		android:id="@+id/TextViewTime"
-		android:textSize="55px"
+		android:textSize="50px"
     	android:textColor="#00fa9a"
     	android:layout_weight="5"
     	android:gravity="center"
